@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmpAPI", "EmpAPI\EmpAPI.csproj", "{7B727B36-CABD-449A-A70C-62EB11C5A255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B727B36-CABD-449A-A70C-62EB11C5A255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B727B36-CABD-449A-A70C-62EB11C5A255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B727B36-CABD-449A-A70C-62EB11C5A255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B727B36-CABD-449A-A70C-62EB11C5A255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {019CEE34-A2EF-4C53-AF0D-F308CDF55332}
+	EndGlobalSection
+EndGlobal
